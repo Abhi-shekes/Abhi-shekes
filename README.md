@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working with [Filament AI](https://www.filament.ai)
+- 🔭 I’m currently working with FilamentAI
 - 🌱 I’m currently learning Flutter, MERN stack, and AI technologies
 - 👯 I’m looking to collaborate on AI projects and mobile applications
 - 💬 Ask me about Python, Deepstream, and AI
