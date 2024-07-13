@@ -22,3 +22,20 @@
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Abhi-shekes&theme=radical)
+
+
+## 📌 Starred Topics
+
+![Starred Topics](https://github-readme-stats.vercel.app/api?username=Abhi-shekes&show_icons=true&theme=radical)
+
+## 📅 Commit Calendar
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhi-shekes&theme=radical)
+
+## 💡 Coding Habits and Activity
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhi-shekes&theme=radical)
+
+## 🗳️ Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhistiwari?theme=unicorn&font=Baloo%20Bhaina%202&ext=activity)
