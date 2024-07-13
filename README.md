@@ -23,14 +23,15 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Abhi-shekes&theme=radical)
 
+
 ## 🌟 Total Contributions
 
 ![Total Contributions](https://github-contributor-stats.vercel.app/api?username=Abhi-shekes)
 
 ## 🌍 Visitor Count
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Abhi-shekes.Abhi-shekes)
+![Visitor Count](https://visits.diy-pi.vercel.app/Abhi-shekes)
 
 ## 📊 Contribution Graph
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Abhi-shekes&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhi-shekes&theme=radical)
