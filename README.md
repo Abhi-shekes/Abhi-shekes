@@ -32,3 +32,13 @@
 ## 🗳️ Leetcode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abhistiwari?theme=unicorn&font=Baloo%20Bhaina%202&ext=activity)
+
+
+
+name: Current year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.calendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_calendar: yes
