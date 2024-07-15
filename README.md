@@ -31,5 +31,5 @@
 
 ## 🗳️ Leetcode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhistiwari?theme=unicorn&font=Baloo%20Bhaina%202&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhishakes?theme=unicorn&font=Baloo%20Bhaina%202&ext=activity)
 
