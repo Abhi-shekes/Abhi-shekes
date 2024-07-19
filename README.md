@@ -1,4 +1,8 @@
 # Hi there, I'm Abhishek! 👋
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Abhi-shekes&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi-shekes" /> 
+</p>
+
 
 ## About Me
 
@@ -9,9 +13,6 @@
 - 📫 How to reach me: [abhishekshivtiwari@gmail.com](mailto:abhishekshivtiwari@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-6172a6223/)
 - ⚡ Fun fact: I love exploring new technologies and solving challenging problems
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Abhi-shekes&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi-shekes" /> 
-</p>
 
 
 
