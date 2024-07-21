@@ -9,7 +9,7 @@
 - 🔭 I’m currently working with **FilamentAI**
 - 🌱 I’m currently learning **Flutter, MERN stack, and AI technologies**
 - 👯 I’m looking to collaborate on **AI projects and mobile applications**
-- 💬 Ask me about **Python, Deepstream, and AI**
+- 💬 Ask me about **Python, Deepstream, and Computer vision**
 - 📫 How to reach me: [abhishekshivtiwari@gmail.com](mailto:abhishekshivtiwari@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-6172a6223/)
 - ⚡ Fun fact: I love exploring new technologies and solving challenging problems
 
