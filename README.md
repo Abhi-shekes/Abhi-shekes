@@ -30,13 +30,6 @@ Software Engineer at **Filament AI**, based in Mumbai. I build production apps e
 **Backend** Node.js/Express · FastAPI · MongoDB · MySQL · Firebase
 **Other** Docker · DeepStream · Git
 
-## GitHub
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats-sigma-two.vercel.app/api?username=Abhi-shekes&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="165em" src="https://github-readme-stats-sigma-two.vercel.app/api/top-langs/?username=Abhi-shekes&layout=compact&hide_border=true&theme=default" />
-</p>
-
 ---
 
 <sub>Open to collaborating on mobile and applied-AI projects — feel free to reach out.</sub>
