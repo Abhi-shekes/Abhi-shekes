@@ -33,8 +33,8 @@ Software Engineer at **Filament AI**, based in Mumbai. I build production apps e
 ## GitHub
 
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhi-shekes&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-shekes&layout=compact&hide_border=true&theme=default" />
+  <img height="165em" src="https://github-readme-stats-sigma-two.vercel.app/api?username=Abhi-shekes&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img height="165em" src="https://github-readme-stats-sigma-two.vercel.app/api/top-langs/?username=Abhi-shekes&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
