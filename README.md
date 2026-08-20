@@ -1,6 +1,6 @@
 # Abhishek Tiwari
 
-Software Engineer at **Filament AI**, based in Mumbai. I build production apps end to end — Flutter/mobile, React/Node backends, and applied AI/computer vision — and ship them, not just prototype them.
+Software Engineer at **Sentics GmbH**, based in Mumbai. I build production apps end to end — Flutter/mobile, React/Node backends, and applied AI/computer vision — and ship them, not just prototype them.
 
 **[LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-6172a6223/)** · **[Email](mailto:abhishekshivtiwari@gmail.com)**
 
