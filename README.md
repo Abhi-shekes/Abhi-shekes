@@ -1,55 +1,42 @@
-# Hi there, I'm Abhishek! 👋
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Abhi-shekes&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi-shekes" /> 
-</p>
+# Abhishek Tiwari
 
+Software Engineer at **Filament AI**, based in Mumbai. I build production apps end to end — Flutter/mobile, React/Node backends, and applied AI/computer vision — and ship them, not just prototype them.
 
-## About Me
+**[LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-6172a6223/)** · **[Email](mailto:abhishekshivtiwari@gmail.com)**
 
-- 🔭 I’m currently working with **FilamentAI**
-- 🌱 I’m currently learning **Flutter, MERN stack, and AI technologies**
-- 👯 I’m looking to collaborate on **AI projects and mobile applications**
-- 💬 Ask me about **Python, Deepstream, and Computer vision**
-- 📫 How to reach me: [abhishekshivtiwari@gmail.com](mailto:abhishekshivtiwari@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-6172a6223/)
-- ⚡ Fun fact: I love exploring new technologies and solving challenging problems
+---
 
+## Focus areas
 
+- **Mobile** — Flutter apps with real backends: auth, payments, push notifications, offline sync.
+- **Backend** — Node/Express and FastAPI services: REST APIs, WebSocket signaling, JWT auth, relational and document stores.
+- **Applied AI / CV** — DeepStream pipelines, fine-tuned LLMs (LoRA), computer vision for safety/detection use cases.
 
+## Selected projects
 
-## 🛠️ Languages and Tools
+| Project | What it is | Stack |
+|---|---|---|
+| [**settlement**](https://github.com/Abhi-shekes/settlement) | Expense-splitting app — groups, recurring expenses, budgets, an AI assistant that drafts splits from natural language, in-app notifications | Flutter, Firebase |
+| [**LegalAI**](https://github.com/Abhi-shekes/LegalAI) | Legal argument generator: a fine-tuned Phi-2 model (LoRA) served via FastAPI, generates arguments/counter-arguments from case facts and statute sections | FastAPI, PyTorch, MySQL |
+| [**cointoss**](https://github.com/Abhi-shekes/cointoss) | Flutter app with a Blender-rendered coin-flip animation and full-screen playback tuned for low-end devices | Flutter |
+| [**p2p-frontend / p2p-backend**](https://github.com/Abhi-shekes/p2p-frontend) | WebRTC peer-to-peer file/data transfer — Socket.IO signaling server pairs exactly two peers per session, no data touches the server | React, Node, Socket.IO |
+| [**portfolio-backend / portfolio-frontend**](https://github.com/Abhi-shekes/portfolio-frontend) | Personal portfolio site — CMS-style backend covering experience, publications, patents, talks and more | React, Express, MongoDB |
+| [**TechByte**](https://github.com/Abhi-shekes/TechByte) · [**hagdu**](https://github.com/Abhi-shekes/hagdu) | Flutter mobile apps in active development | Flutter |
+
+## Stack
+
+**Languages** Python · Dart · JavaScript · C/C++
+**Mobile** Flutter · React Native
+**Backend** Node.js/Express · FastAPI · MongoDB · MySQL · Firebase
+**Other** Docker · DeepStream · Git
+
+## GitHub
+
 <p align="left">
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhi-shekes&show_icons=true&hide_border=true&count_private=true&theme=default" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-shekes&layout=compact&hide_border=true&theme=default" />
 </p>
 
+---
 
-## 📈 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-shekes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-shekes&layout=compact&theme=radical)
-
-## 📊 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhi-shekes&theme=radical)
-
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Abhi-shekes&theme=radical)
-
-
-## 📌 Starred Topics
-
-![Starred Topics](https://github-readme-stats.vercel.app/api?username=Abhi-shekes&show_icons=true&theme=radical)
-
-
-## 🗳️ Leetcode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhishakes?theme=unicorn&font=Baloo%20Bhaina%202&ext=activity)
+<sub>Open to collaborating on mobile and applied-AI projects — feel free to reach out.</sub>
