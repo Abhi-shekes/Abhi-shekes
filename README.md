@@ -101,22 +101,17 @@ synthetic-data simulation platform ([SynthFlow](https://github.com/Abhi-shekes/s
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhi-shekes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-shekes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA" alt="GitHub stats" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-shekes&layout=compact&langs_count=8&hide=jupyter%20notebook,cmake,mako,objective-c&hide_border=true&theme=github_dark&title_color=58A6FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-shekes&layout=compact&langs_count=8&hide=jupyter%20notebook,cmake,mako,objective-c&hide_border=true&theme=default&title_color=0969DA" alt="Most used languages" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-shekes&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-shekes&theme=default" alt="Profile summary: commits, pull requests, issues and contributed repositories" width="100%" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-shekes&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-shekes&theme=default" alt="Overall GitHub statistics" height="200" />
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abhi-shekes&hide_border=true&theme=github-dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <img src="https://streak-stats.demolab.com?user=Abhi-shekes&hide_border=true&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="Contribution streak" height="170" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-shekes&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-shekes&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Abhi-shekes&hide_border=true&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="Contribution streak" height="200" />
 </picture>
 
 <picture>
@@ -134,8 +129,11 @@ synthetic-data simulation platform ([SynthFlow](https://github.com/Abhi-shekes/s
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Abhi-shekes/Abhi-shekes/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake" width="100%" />
-<img src="https://raw.githubusercontent.com/Abhi-shekes/Abhi-shekes/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Abhi-shekes/Abhi-shekes/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/Abhi-shekes/Abhi-shekes/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" width="100%" />
+
+<sub>The snake eats the contribution grid above; it is regenerated daily by
+<a href=".github/workflows/snake.yml">a workflow in this repository</a> rather than fetched from a third party.</sub>
 
 </div>
 
@@ -143,34 +141,12 @@ synthetic-data simulation platform ([SynthFlow](https://github.com/Abhi-shekes/s
 
 ## Flagship projects
 
-<div align="center">
-
-<a href="https://github.com/Abhi-shekes/tokenbiryani">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=tokenbiryani&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=tokenbiryani&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA" alt="tokenbiryani" height="120" />
-  </picture>
-</a>
-<a href="https://github.com/Abhi-shekes/Legal-AI-VaadVivaad">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=Legal-AI-VaadVivaad&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=Legal-AI-VaadVivaad&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA" alt="Legal-AI-VaadVivaad" height="120" />
-  </picture>
-</a>
-<a href="https://github.com/Abhi-shekes/synthflow">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=synthflow&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=synthflow&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA" alt="synthflow" height="120" />
-  </picture>
-</a>
-<a href="https://github.com/Abhi-shekes/ruckus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=ruckus&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhi-shekes&repo=ruckus&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA" alt="ruckus" height="120" />
-  </picture>
-</a>
-
-</div>
+| Project | What it is | Language | Commits / yr | Last commit |
+|---|---|---|---|---|
+| [**tokenbiryani**](https://github.com/Abhi-shekes/tokenbiryani) | Anthropic-compatible pooling gateway with cache-aware routing | ![top language](https://img.shields.io/github/languages/top/Abhi-shekes/tokenbiryani?style=flat-square&labelColor=1F2328&color=58A6FF) | ![commit activity](https://img.shields.io/github/commit-activity/y/Abhi-shekes/tokenbiryani?style=flat-square&labelColor=1F2328&color=58A6FF) | ![last commit](https://img.shields.io/github/last-commit/Abhi-shekes/tokenbiryani?style=flat-square&labelColor=1F2328&color=58A6FF) |
+| [**VaadVivaad**](https://github.com/Abhi-shekes/Legal-AI-VaadVivaad) | Adversarial courtroom for Indian criminal law | ![top language](https://img.shields.io/github/languages/top/Abhi-shekes/Legal-AI-VaadVivaad?style=flat-square&labelColor=1F2328&color=58A6FF) | ![commit activity](https://img.shields.io/github/commit-activity/y/Abhi-shekes/Legal-AI-VaadVivaad?style=flat-square&labelColor=1F2328&color=58A6FF) | ![last commit](https://img.shields.io/github/last-commit/Abhi-shekes/Legal-AI-VaadVivaad?style=flat-square&labelColor=1F2328&color=58A6FF) |
+| [**SynthFlow**](https://github.com/Abhi-shekes/synthflow) | Synthetic data simulation platform | ![top language](https://img.shields.io/github/languages/top/Abhi-shekes/synthflow?style=flat-square&labelColor=1F2328&color=58A6FF) | ![commit activity](https://img.shields.io/github/commit-activity/y/Abhi-shekes/synthflow?style=flat-square&labelColor=1F2328&color=58A6FF) | ![last commit](https://img.shields.io/github/last-commit/Abhi-shekes/synthflow?style=flat-square&labelColor=1F2328&color=58A6FF) |
+| [**Ruckus**](https://github.com/Abhi-shekes/ruckus) | Global-hotkey desktop soundboard for Ubuntu | ![top language](https://img.shields.io/github/languages/top/Abhi-shekes/ruckus?style=flat-square&labelColor=1F2328&color=58A6FF) | ![commit activity](https://img.shields.io/github/commit-activity/y/Abhi-shekes/ruckus?style=flat-square&labelColor=1F2328&color=58A6FF) | ![last commit](https://img.shields.io/github/last-commit/Abhi-shekes/ruckus?style=flat-square&labelColor=1F2328&color=58A6FF) |
 
 ### What each one actually does
 
