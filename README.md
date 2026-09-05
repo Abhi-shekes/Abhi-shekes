@@ -96,49 +96,6 @@ synthetic-data simulation platform ([SynthFlow](https://github.com/Abhi-shekes/s
 
 ---
 
-## GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-shekes&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-shekes&theme=default" alt="Profile summary: commits, pull requests, issues and contributed repositories" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-shekes&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-shekes&theme=default" alt="Overall GitHub statistics" height="200" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abhi-shekes&hide_border=true&theme=github-dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  <img src="https://streak-stats.demolab.com?user=Abhi-shekes&hide_border=true&theme=default&ring=0969DA&fire=0969DA&currStreakLabel=0969DA" alt="Contribution streak" height="200" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi-shekes&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi-shekes&theme=default" alt="Repositories per language" height="200" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi-shekes&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi-shekes&theme=default" alt="Most committed languages" height="200" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi-shekes&theme=github_dark&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi-shekes&theme=default&utcOffset=5.5" alt="Most productive time of day" height="200" />
-</picture>
-
-<br />
-
-<img src="https://raw.githubusercontent.com/Abhi-shekes/Abhi-shekes/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake" width="100%" />
-<img src="https://raw.githubusercontent.com/Abhi-shekes/Abhi-shekes/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake" width="100%" />
-
-<sub>The snake eats the contribution grid above; it is regenerated daily by
-<a href=".github/workflows/snake.yml">a workflow in this repository</a> rather than fetched from a third party.</sub>
-
-</div>
-
----
-
 ## Flagship projects
 
 | Project | What it is | Language | Commits / yr | Last commit |
